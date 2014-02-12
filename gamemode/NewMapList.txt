@@ -1,0 +1,83 @@
+Build Puzzle #1 (Inside + Maze Final)
+js_build_puzzle_one_finl
+
+Build Puzzle #2 (Inside + Maze Final)
+js_build_puzzle_two_finl
+
+Build Puzzle #3 (Inside + Smash Maze Final)
+js_build_puzzle_three_finl3
+
+Build Puzzle #4 (Inside + Airboat Final)
+js_build_puzzle_four_finl
+
+Build Puzzle #5 (Inside + Jumping Final)
+js_build_puzzle_five_v8
+
+Build Puzzle #6 (Inside + Airboat Final)
+js_build_puzzle_six_v6m
+
+--Build Puzzle #7 (Inside + Rolling Ball Final)
+--js_build_puzzle_seven_v7
+
+Build Puzzle #8 (Inside + Boat Final)
+js_build_puzzle_eight_final
+
+Build Puzzle #9 (Inside + Tyre Final)
+js_build_puzzle_nine_v12
+
+Build Puzzle #10 (Icecap Surrounding)
+js_build_puzzle_ten_v7
+
+Build Puzzle #11 (Camp)
+js_build_puzzle_eleven_v6
+
+Build Puzzle #12 (Inside + Stargate Exit)
+js_build_puzzle_twelve_v6
+
+Build Puzzle #13 (Castle)
+js_build_puzzle_thirteen_v3
+
+Build Puzzle #14 (Beach + Lighthouse Exit)
+js_build_puzzle_fourteen_v6
+
+Build Puzzle #15 (Parking Area + Warehouse Exit)
+js_build_puzzle_fifteen_v5
+
+Build Puzzle #16 (SPACE)
+js_build_puzzle_sixteen_v3
+
+Build Puzzle #17 (Theme Park)
+js_build_puzzle_seventeen_v5
+
+Build Puzzle #18 (Mall)
+js_build_puzzle_eighteen_v2
+
+Build Puzzle by Nico
+js_build_puzzle_nico_schumi_v3
+
+Build Puzzle Mario World 1
+dr_puzzle_mario_final
+
+Build Puzzle of LOVE
+ow_puzzleoflove_one_v10
+
+Coop Zelda Dungen 1
+coop_zelda01_b
+
+Coop Zelda Dungen 3
+47_zelda_3_b2
+
+Coop Tower Climb
+syn_tower_climb_beta_20
+
+Coop Pyra World
+pyra_world01_v2
+
+Coop Trials 4 Part A
+syn_trials4
+
+Coop Trials 4 Part B
+syn_trials4b
+
+Coop Trials 4 Part C
+syn_trials4c
